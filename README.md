@@ -77,7 +77,7 @@ Let the program do their thing and check the tiles folder in the project folder.
   publisher={Nature Publishing Group}
 }
 ```
-## Agradecimientos
+## Acknowledgments
 
 Special thanks to [@LauraNicolasSaenz](https://www.youtube.com/@LauraNicolasSaenz) for her amazing YouTube tutorial, which served as a key reference for the detection process:
 
